@@ -8,17 +8,7 @@ namespace LanguageFeatures.Controllers
     {
         public ViewResult Index()
         {
-            List<string> results = new List<string>();
-
-            foreach (Product p in Product.GetProducts())
-            {
-                string name = p?.Name;
-                decimal? price = p?.Price;
-                string relatedName = p?.Related?.Name;
-                results.Add(string.Format("Name: {0}, Price: {1}, Realted: {2}", name, price, relatedName));
-            }
-
-            return View(results);
+            return View("Index", new string[] { "Bob", "Joe", "Alice"});
         }
     }
 }
