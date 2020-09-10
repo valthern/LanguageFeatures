@@ -13,7 +13,6 @@ C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreap
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.csprojAssemblyReference.cache
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.AssemblyInfoInputs.cache
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.AssemblyInfo.cs
-C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.csproj.CoreCompileInputs.cache
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.RazorAssemblyInfo.cache
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.RazorAssemblyInfo.cs
@@ -27,6 +26,7 @@ C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreap
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\staticwebassets\LanguageFeatures.StaticWebAssets.xml
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.dll
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.pdb
-C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.genruntimeconfig.cache
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.csproj.CopyComplete
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.genruntimeconfig.cache
