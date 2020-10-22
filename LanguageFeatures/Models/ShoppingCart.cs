@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace LanguageFeatures.Models
 {
-    public class ShoppingCart:IEnumerable<Product>
+    public class ShoppingCart : IEnumerable<Product>
     {
         public IEnumerable<Product> Products{get; set;}
 
