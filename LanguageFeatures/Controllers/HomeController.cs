@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using LanguageFeatures.Models;
+using System;
 
 namespace LanguageFeatures.Controllers
 {
@@ -17,10 +18,10 @@ namespace LanguageFeatures.Controllers
                 new Product{Name = "Corner flag", Price = 34.95M}
             };
 
-            decimal priceFilterTotal = productArray.FilterByPrice(20).TotalPrices();
-            decimal nameFilterTotal = productArray.FilterByName('S').TotalPrices();
+            decimal priceFilterTotal = productArray.Filter(p => (p?.Price ?? 0) >= 20).TotalPrices();
+            decimal nameFilterTotal = productArray.Filter(p => p?.Name?[0] == 'S').TotalPrices();
 
-            return View("Index", new string[]{
+            return View("Index", new string[] {
                 $"Price Total: {priceFilterTotal:C2}",
                 $"Name Total: {nameFilterTotal:C2}"
             });
