@@ -1,7 +1,6 @@
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp3.1\global.json
-C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp3.1\LanguageFeatures.exe
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp3.1\LanguageFeatures.deps.json
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp3.1\LanguageFeatures.runtimeconfig.json
@@ -30,3 +29,4 @@ C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreap
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.csproj.CoreCompileInputs.cache
 C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.genruntimeconfig.cache
+C:\Users\Omar\source\repos\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp3.1\scopedcss\bundle\LanguageFeatures.styles.css
